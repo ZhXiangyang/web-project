@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ZhXiangyang/web-project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ZhXiangyang/web-project/static/js/main.3b10c3ae.chunk.js",
+    "main.js.map": "/ZhXiangyang/web-project/static/js/main.3b10c3ae.chunk.js.map",
+    "runtime-main.js": "/ZhXiangyang/web-project/static/js/runtime-main.147ed3f1.js",
+    "runtime-main.js.map": "/ZhXiangyang/web-project/static/js/runtime-main.147ed3f1.js.map",
+    "static/css/2.14824042.chunk.css": "/ZhXiangyang/web-project/static/css/2.14824042.chunk.css",
+    "static/js/2.1d17a1de.chunk.js": "/ZhXiangyang/web-project/static/js/2.1d17a1de.chunk.js",
+    "static/js/2.1d17a1de.chunk.js.map": "/ZhXiangyang/web-project/static/js/2.1d17a1de.chunk.js.map",
+    "index.html": "/ZhXiangyang/web-project/index.html",
+    "precache-manifest.a82e4e29359fe4d9ffbefadfe7db20f4.js": "/ZhXiangyang/web-project/precache-manifest.a82e4e29359fe4d9ffbefadfe7db20f4.js",
+    "service-worker.js": "/ZhXiangyang/web-project/service-worker.js",
+    "static/css/2.14824042.chunk.css.map": "/ZhXiangyang/web-project/static/css/2.14824042.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/ZhXiangyang/web-project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1d17a1de.chunk.js.LICENSE.txt": "/ZhXiangyang/web-project/static/js/2.1d17a1de.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/ZhXiangyang/web-project/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.147ed3f1.js",
+    "static/css/2.14824042.chunk.css",
+    "static/js/2.1d17a1de.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3b10c3ae.chunk.js"
+  ]
+}
